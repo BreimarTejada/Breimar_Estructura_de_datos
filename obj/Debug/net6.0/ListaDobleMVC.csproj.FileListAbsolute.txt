@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\bin\Debug\net6.0\ListaDobleMVC.exe
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\bin\Debug\net6.0\ListaDobleMVC.deps.json
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\bin\Debug\net6.0\ListaDobleMVC.runtimeconfig.json
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\bin\Debug\net6.0\ListaDobleMVC.dll
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\bin\Debug\net6.0\ListaDobleMVC.pdb
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.sourcelink.json
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.dll
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\refint\ListaDobleMVC.dll
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.pdb
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ListaDobleMVC.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\GitHub\Breimar_Estructura_de_datos\obj\Debug\net6.0\ref\ListaDobleMVC.dll
