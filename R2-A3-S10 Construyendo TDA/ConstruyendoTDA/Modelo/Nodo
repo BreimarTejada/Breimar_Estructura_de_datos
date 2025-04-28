@@ -1,12 +1,12 @@
-public class Nodo<T>
+public class Nodo
 {
-    public T Valor { get; set; }
-    public Nodo<T> Anterior { get; set; }
-    public Nodo<T> Siguiente { get; set; }
+    public int Dato;
+    public Nodo Anterior;
+    public Nodo Siguiente;
 
-    public Nodo(T valor)
+    public Nodo(int dato)
     {
-        Valor = valor;
+        Dato = dato;
         Anterior = null;
         Siguiente = null;
     }
