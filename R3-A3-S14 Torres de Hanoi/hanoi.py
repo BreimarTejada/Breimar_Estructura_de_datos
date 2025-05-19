@@ -16,11 +16,11 @@ YELLOW = (255, 255, 50)
 BLUE = (50, 50, 255)
 ORANGE = (255, 165, 0)
 
-# Torres (coordenadas centradas)
+# Torres
 towers = [200, 400, 600]
 tower_names = ["A", "B", "C"]
 
-# Discos iniciales (ahora solo 5, del más grande "5" al más pequeño "1")
+# Discos iniciales
 def iniciar_discos():
     discos = []
     for i, color in enumerate([RED, GREEN, YELLOW, BLUE, ORANGE]):
@@ -64,7 +64,7 @@ def draw_towers_and_disks():
     pygame.draw.rect(screen, BLACK, (600, 50, 180, 140))
     font = pygame.font.Font(None, 20)
     screen.blit(font.render("Movimientos:", True, WHITE), (610, 60))
-    screen.blit(font.render(f"Total: {move_count}", True, WHITE), (610, 80))  # Siempre visible
+    screen.blit(font.render(f"Total: {move_count}", True, WHITE), (610, 80)) 
 
     for i, move in enumerate(movements[-5:]):
         screen.blit(font.render(move, True, WHITE), (610, 100 + i * 20))  # Últimos 5 movimientos
@@ -78,7 +78,7 @@ def draw_towers_and_disks():
 def animate_move(disco, target_x, target_y, dest_tower, origen_tower, speed=0.4):
     """Animación rápida sin perder control manual"""
     global move_count
-    move_count += 1  # Contador de movimientos siempre visible
+    move_count += 1  
     while abs(disco["x"] - target_x) > 2 or abs(disco["y"] - target_y) > 2:
         pygame.time.delay(5)
         disco["x"] += (target_x - disco["x"]) * speed
